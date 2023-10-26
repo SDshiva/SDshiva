@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shibam.dey.sd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yEmu7oTk6qpw7JvjDn7thmcNIyPtqMw6/view?usp=sharing](https://drive.google.com/file/d/1yEmu7oTk6qpw7JvjDn7thmcNIyPtqMw6/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X6v6W5kSPn2NFlyX3tSYdxzKE9tIF56Y/view?usp=drive_link](https://drive.google.com/file/d/1X6v6W5kSPn2NFlyX3tSYdxzKE9tIF56Y/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
