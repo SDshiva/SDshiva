@@ -13,6 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X6v6W5kSPn2NFlyX3tSYdxzKE9tIF56Y/view?usp=drive_link](https://drive.google.com/file/d/16d7fvDBgC9bG2rb9OeJ2B5efgmq-asm5/view)
 
+- 📱 Check out my project on the Play Store: [Meet Local](https://play.google.com/store/apps/details?id=smart.lab.meetlocal&pli=1)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shibam-dey-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibam-dey-" height="30" width="40" /></a>
