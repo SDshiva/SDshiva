@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shibam.dey.sd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X6v6W5kSPn2NFlyX3tSYdxzKE9tIF56Y/view?usp=drive_link](https://drive.google.com/file/d/16d7fvDBgC9bG2rb9OeJ2B5efgmq-asm5/view)
+- 📄 Know about my experiences [Portfolio](https://drive.google.com/drive/u/1/folders/1RmiLWfAPrEK0Ak90-nsGDx6-yemoBeZr)
 
 - 📱 Check out my project on the Play Store: [Meet Local](https://play.google.com/store/apps/details?id=smart.lab.meetlocal&pli=1)
 <h3 align="left">Connect with me:</h3>
