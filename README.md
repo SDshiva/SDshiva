@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shibam Dey</h1>
-<h3 align="center">
+<h3 align="justify">
 Motivated and skilled Software Engineer with expertise in Flutter for mobile application development, Laravel/PHP for backend API creation, and React.js for dynamic web development. Passionate about delivering high-quality, scalable solutions and contributing to innovative projects that enhance user experiences and drive business success.
 </h3>
 
