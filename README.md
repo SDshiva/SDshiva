@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shibam Dey</h1>
-<h3 align="center">A passionate Flutter developer and BlockChain developer from Bangladesh </h3>
+<h3 align="center">
+Motivated and skilled Software Engineer with expertise in Flutter for mobile application development, Laravel/PHP for backend API creation, and React.js for dynamic web development. Passionate about delivering high-quality, scalable solutions and contributing to innovative projects that enhance user experiences and drive business success.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdshiva&label=Profile%20views&color=0e75b6&style=flat" alt="sdshiva" /> </p>
 
