@@ -9,7 +9,7 @@ Motivated and skilled Software Engineer with expertise in Flutter for mobile app
 
 - 🌱 I’m currently learning **Flutter, Android Studio.**
 
-- 💬 Ask me about **Flutter, Solidity, ReactJs, C programing, Python etc**
+- 💬 Ask me about **Flutter, Dart, Solidity, ReactJs, JavaScript etc**
 
 - 📫 How to reach me **shibam.dey.sd@gmail.com**
 
