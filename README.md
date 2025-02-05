@@ -16,6 +16,8 @@ Motivated and skilled Software Engineer with expertise in Flutter for mobile app
 - 📄 Know about my experiences [Portfolio](https://drive.google.com/drive/u/1/folders/1RmiLWfAPrEK0Ak90-nsGDx6-yemoBeZr)
 
 - 📱 Check out my project on the Play Store: [Meet Local](https://play.google.com/store/apps/details?id=smart.lab.meetlocal&pli=1)
+- 🌐 Check out my react demo project : [Coaching Details](https://education-system-sdshiva.netlify.app/)
+- 🌐 Check out my react demo project : [Software Company Management](https://software-management-sdshiva.netlify.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shibam-dey-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibam-dey-" height="30" width="40" /></a>
