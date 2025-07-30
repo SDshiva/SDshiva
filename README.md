@@ -8,8 +8,8 @@
 
 ---
 
-🎯 **About Me**  
-Motivated and detail-oriented Software Engineer with expertise in **Flutter** for mobile app development, **Laravel/PHP** for backend API services, and **React.js** for dynamic web interfaces. Passionate about building scalable, user-focused solutions that enhance customer experience and business value.
+### 🎯 **About Me**  
+Dedicated and detail-oriented **Mobile Application Developer** with hands-on expertise in **Flutter (Dart)**, **Kotlin**, and **Java**. Currently working on **banking and non-banking financial (NBFC)** projects at **Era InfoTech Ltd.**, delivering secure, scalable, and performance-driven mobile solutions. Passionate about crafting intuitive user experiences, integrating APIs, and building reliable applications that power the financial sector.
 
 - 🔭 Currently working at **Era InfoTech Ltd.** on the **Bank Asia** project  
 - 🌱 Exploring **Spring Boot** & **Oracle** for enterprise backend development  
